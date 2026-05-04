@@ -1,5 +1,8 @@
 # Лабораторная работа: Kubernetes (задание №7)
 
+## Ссылка на демонстрацию работы
+https://drive.google.com/file/d/19M1Vnkc3MYYQ4imigWI685mGlv4oNW2y/view
+
 ## Описание файлов
 `app.py` - Flask: `/`, `/health`, `/load` (нагрузка на CPU для демо HPA)
 `Dockerfile` - Сборка образа `my-app:latest`
